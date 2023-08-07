@@ -8,9 +8,9 @@
   <ol>
     <li>MLFlow:  <a href="https://github.com/Abhishek2220/Customer_Churn_Capstone">Machine learning</a> </li>
     <li>MLFlow: <a href="https://github.com/Abhishek2220/Customer_segmentation">Machine learning</a> </li>
-    <li>Power_Bi: <a href="https://github.com/Abhishek2220/Super_store_sales_dashboard">PowerBI</a> </li>
-    <li>MLFlow: <a href="https://github.com/Abhishek2220/Coffee-price-prediction-using-linear-regression-"</li>
-    <li>Power_Bi: <a href="https://github.com/Abhishek2220/Quaterly_income_dashboard-using-power_bi"</li>
+    <li>Power_bi: <a href="https://github.com/Abhishek2220/Super_store_sales_dashboard">PowerbI</a> </li>
+    <li>MLFlow: <a href="https://github.com/Abhishek2220/Coffee-price-prediction-using-linear-regression-">Machine Learning</li>
+    <li>Power_bi: <a href="https://github.com/Abhishek2220/Quaterly_income_dashboard-using-power_bi">Power_bi</li>
   </ol>
   
   <h2>🛠️ Tools and Technologies</h2>
