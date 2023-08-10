@@ -11,6 +11,19 @@
   <img align="left" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"  />
   </a>
   
+  <a href="https://twitter.com/Ab4084952Kumar">
+  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+  </a>
+  
+  <a href="mailto:ab4084952@gmail.com">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+  </a>
+
+  
+
+    
+ 
+  
   <br>
   <h2>🛠️ Popular Repositories</h2>
   <ol>
